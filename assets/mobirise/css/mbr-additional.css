@@ -3973,6 +3973,25 @@ a {
     margin-bottom: 2rem;
   }
 }
+.cid-scNZ2ttkaG {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-scNZ2ttkaG .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-scNZ2ttkaG .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-scNZ2ttkaG .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
 .cid-s48OLK6784 .navbar-dropdown {
   position: relative !important;
 }
